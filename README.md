@@ -4,20 +4,35 @@
 
 ConductoresProject/
 ├── lib/
+
 │ └── Conductores.jar
+
 ├── src/
+
 │ └── Conductores/
+
 │ ├── Conductor.java
+
 │ ├── ConductorDeCoche.java
+
 │ └── ConductorDeMoto.java
+
 ├── umg/
+
 │ └── progra2/
+
 │ ├── Main.java
+
 │ └── vehiculos/
+
 │ ├── Vehiculos.java
+
 │ ├── Coche.java
+
 │ └── Moto.java
+
 ├── .classpath
+
 └── .project
 
 ## Detalles de la Estructura
