@@ -50,15 +50,19 @@ Clase que extiende Conductor para representar a los conductores de coches.
 ConductorDeMoto.java
 Clase que extiende Conductor para representar a los conductores de motos.
 
-Ejecución del Proyecto
+### Ejecución del Proyecto
 Clonar el repositorio.
+
 Navegar a la carpeta del proyecto.
+
 Compilar y ejecutar la clase Main.java.
 
-Requisitos
+### Requisitos
 JDK 11 o superior
+
 Herramientas de construcción como Maven o Gradle (opcional, dependiendo de cómo se gestione el proyecto)
 
-Autor
+### Autor
 Nombre del Autor: Winter (Frank) & Nasa (Gabriel)
+
 Información de contacto: franklinlopezchavarria@gmail.com
