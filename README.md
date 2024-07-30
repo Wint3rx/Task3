@@ -60,5 +60,5 @@ JDK 11 o superior
 Herramientas de construcción como Maven o Gradle (opcional, dependiendo de cómo se gestione el proyecto)
 
 Autor
-Nombre del Autor: Winter (Frank)
+Nombre del Autor: Winter (Frank) & Nasa (Gabriel)
 Información de contacto: franklinlopezchavarria@gmail.com
